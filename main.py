@@ -1,6 +1,6 @@
 import math
 import random
-
+#bingung
 def generateChromosome():
     #membuat satu kromosom dengan panjang 6 dan tipe data integer
     chromosome = []
